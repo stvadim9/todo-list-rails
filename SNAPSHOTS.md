@@ -1,16 +1,16 @@
-# Snapshots
-Here are some snap shots of specific pages of the website.
+# Скрины
+Вот несколько снимков конкретных страниц сайта.
 
-## Homepage
-This is the landing page.
+## Домашняя страница
+Это целевая страница.
 ![Alt text](app/assets/images/homepage.jpg?raw=true "Hompage")
 
-## Add new Todo list
-Here you can create a new Todo List.
+## Добавить новый список Todo 
+Здесь вы можете создать новый список Todo.
 ![Alt text](app/assets/images/list_new.jpg?raw=true "New Todo List")
 
-## View and edit current Todo lists
-Here you can view the todo list.
-You can add todo items specific for this list.
-Items can be marked as complete or be deleted.
+## Просмотр и редактирование текущих списков Todo.
+Здесь вы можете просмотреть список задач.
+Вы можете добавить элементы todo, специальные для этого списка.
+Элементы могут быть помечены как завершенные или могут быть удалены.
 ![Alt text](app/assets/images/list_current.jpg?raw=true "Current Todo List")
