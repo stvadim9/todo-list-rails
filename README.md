@@ -1,35 +1,29 @@
 # ToDo App
 ## rails-to-do
-This a simple single-page Todo App.
+Это простое одностраничное приложение Todo.
 ![Alt text](app/assets/images/homepage.jpg?raw=true "Hompage")
 
-## Introduction
-Multiple lists of todo items can be generated.
-Each todo list contains its own todo items.
-These can be marked as completed or deleted.
+## Введение
+Можно создать несколько списков элементов todo.
+Каждый список задач содержит свои элементы.
+Они могут быть помечены как завершенные или удалены.
 
-This is based on the blog site that [*Mackenzie Child: How To Build A Todo App In Rails 4*](https://mackenziechild.me/) has build.
-However it has been built using Rails 5.
-
-For more information, see [*Mackenzie Child*](https://mackenziechild.me/).
-
-## Software Versions
+## Версии программного обеспечения
 *   Rails 5.0.2
 *   Ruby 2.3.0
 *   RVM 1.29.1
 
-## Features
-These are some of the features that have been added to the web page.
-*   A Todo List Scaffold for main todo lists
-*   A Todo Item model and controller for individual items associated with the main todo Lists
-*   A patch method to be able to show items as complete
-*   Front-end styling (Credit to Mackenzie Child)
+## Особенности
+Это некоторые из функций, которые были добавлены на веб-страницу.
+* Экипаж Todo List для основных списков задач
+* Модель предметов и контроллер Todo для отдельных предметов, связанных с основными списками дел
+* Метод патча, чтобы иметь возможность показывать элементы как завершенные
 
-## Further information
-### Rails Commands
+## Дальнейшая информация
+### Rails комманды
 Commands used to create models and controllers.
 [*link*](COMMANDS.md)
 
-### Snapshots
+### Скрины
 These are snapshots of the various pages of the app.
 [*link*](SNAPSHOTS.md)
