@@ -1,5 +1,5 @@
-# Rails Commands
-This is the summary of the Rails Command used to generate the web page.
+# Rails Комманді
+Это сводка команды Rails, используемой для генерации веб-страницы.
 
         $ rails _5.0.2_ new rails-to-do
         $ rails g scaffold todo_list title:string description:text
