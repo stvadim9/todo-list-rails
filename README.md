@@ -21,9 +21,9 @@
 
 ## Дальнейшая информация
 ### Rails комманды
-Commands used to create models and controllers.
+Команды, используемые для создания моделей и контроллеров.
 [*link*](COMMANDS.md)
 
 ### Скрины
-These are snapshots of the various pages of the app.
+Это скрины различных страниц приложения.
 [*link*](SNAPSHOTS.md)
